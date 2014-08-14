@@ -1,5 +1,5 @@
-CC		= gcc
-OUT		= mkrepo
+CC      = gcc
+OUT	    = mkrepo
 SOURCES = mkrepo.c
 
 all:
